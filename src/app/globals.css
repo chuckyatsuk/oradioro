@@ -87,4 +87,28 @@
       opacity: 1;
     }
   }
+  
+  .bg-cream {
+    background-color: hsl(var(--cream));
+  }
+  
+  .bg-sand {
+    background-color: hsl(var(--sand));
+  }
+  
+  .bg-stone {
+    background-color: hsl(var(--stone));
+  }
+  
+  .bg-charcoal {
+    background-color: hsl(var(--charcoal));
+  }
+  
+  .text-gold {
+    color: hsl(var(--gold));
+  }
+  
+  .text-charcoal {
+    color: hsl(var(--charcoal));
+  }
 }

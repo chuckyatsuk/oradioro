@@ -15,7 +15,7 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Villa Ora di Oro | Luxury Villa Rental in Curaçao",
+  title: "Villa Ora di Oros | Luxury Villa Rental in Curaçao",
   description: "Experience unparalleled luxury at Villa Ora di Oro, an exclusive vacation rental in Curaçao. Pristine beaches, private pools, and Caribbean elegance await.",
   keywords: ["Curaçao villa", "luxury vacation rental", "Villa Ora di Oro", "Caribbean luxury", "private villa Curaçao"],
   authors: [{ name: "Villa Ora di Oro" }],

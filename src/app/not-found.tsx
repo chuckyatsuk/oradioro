@@ -44,7 +44,7 @@ export default function NotFound() {
               Lost in Paradise
             </h2>
             <p className="text-xl text-stone mb-8 max-w-lg mx-auto">
-              It seems you've wandered off the beaten path. Let us guide you back to Villa 156, 
+              It seems you&apos;ve wandered off the beaten path. Let us guide you back to Villa 156, 
               where luxury and tranquility await.
             </p>
           </motion.div>

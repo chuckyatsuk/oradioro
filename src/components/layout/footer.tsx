@@ -85,7 +85,7 @@ export function Footer() {
               <h4 className="font-medium mb-4">Discover</h4>
               <ul className="space-y-2">
                 {footerLinks.discover.map((link) => (
-                  <li key={link.href}>
+                  <li key={link.label}>
                     <Link 
                       href={link.href}
                       className="text-white/70 hover:text-gold transition-colors text-sm"
@@ -108,7 +108,7 @@ export function Footer() {
               <h4 className="font-medium mb-4">Experience</h4>
               <ul className="space-y-2">
                 {footerLinks.experience.map((link) => (
-                  <li key={link.href}>
+                  <li key={link.label}>
                     <Link 
                       href={link.href}
                       className="text-white/70 hover:text-gold transition-colors text-sm"
@@ -131,7 +131,7 @@ export function Footer() {
               <h4 className="font-medium mb-4">Information</h4>
               <ul className="space-y-2">
                 {footerLinks.information.map((link) => (
-                  <li key={link.href}>
+                  <li key={link.label}>
                     <Link 
                       href={link.href}
                       className="text-white/70 hover:text-gold transition-colors text-sm"
